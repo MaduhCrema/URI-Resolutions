@@ -1,2 +1,2 @@
 # URI-Resolutions
-##My resolutions for URI's exercises
+## My resolutions for URI's exercises
